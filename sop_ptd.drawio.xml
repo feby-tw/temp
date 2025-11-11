@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1907" dy="774" grid="1" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-1" value="PPDDP" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=40;horizontalStack=0;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="90" width="1300" height="880" as="geometry">
+            <mxRectangle x="170" y="90" width="40" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-2" value="Kepala Seksi Penjaminan&amp;nbsp;&lt;div&gt;Kualitas Pengolahan&lt;/div&gt;" style="swimlane;startSize=50;horizontal=0;html=1;" parent="QjRwcwMKcNwtVwvAtG78-1" vertex="1">
+          <mxGeometry x="40" width="1260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-50" value="Menugaskan Petugas Quality Assurance" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#000000;fontColor=#000000;rounded=1;arcSize=0;" parent="QjRwcwMKcNwtVwvAtG78-2" vertex="1">
+          <mxGeometry x="870" y="60" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-3" value="Kepala Seksi Perekaman&lt;div&gt;dan Transfer Data&lt;/div&gt;" style="swimlane;startSize=50;horizontal=0;html=1;" parent="QjRwcwMKcNwtVwvAtG78-1" vertex="1">
+          <mxGeometry x="40" y="180" width="1260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="QjRwcwMKcNwtVwvAtG78-3" source="QjRwcwMKcNwtVwvAtG78-12" target="QjRwcwMKcNwtVwvAtG78-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-12" value="" style="ellipse;html=1;shape=startState;fillColor=#66FFB3;strokeColor=light-dark(#050505, #004400);" parent="QjRwcwMKcNwtVwvAtG78-3" vertex="1">
+          <mxGeometry x="80" y="75" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-10" value="Menugaskan Petugas Perekam untuk merekam SPT" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fontColor=#000000;fillColor=#99CCFF;strokeColor=#000000;" parent="QjRwcwMKcNwtVwvAtG78-3" vertex="1">
+          <mxGeometry x="163.5" y="62.5" width="133" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-46" value="Meneliti dan menyetujui" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#000000;fontColor=#000000;rounded=1;arcSize=0;" parent="QjRwcwMKcNwtVwvAtG78-3" vertex="1">
+          <mxGeometry x="690" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="QjRwcwMKcNwtVwvAtG78-3" source="QjRwcwMKcNwtVwvAtG78-48" target="QjRwcwMKcNwtVwvAtG78-56" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1049.9999999999998" y="89.99999999999989" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-48" value="Menyerahkan dafnom SPT hasil perekaman" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#000000;fontColor=#000000;rounded=1;arcSize=0;" parent="QjRwcwMKcNwtVwvAtG78-3" vertex="1">
+          <mxGeometry x="870" y="60" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="QjRwcwMKcNwtVwvAtG78-3" source="QjRwcwMKcNwtVwvAtG78-46" target="QjRwcwMKcNwtVwvAtG78-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-56" value="" style="ellipse;html=1;shape=endState;fillColor=light-dark(#f0b399, #ededed);strokeColor=light-dark(#1a1919, #ff9090);" parent="QjRwcwMKcNwtVwvAtG78-3" vertex="1">
+          <mxGeometry x="1040" y="75" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-4" value="Petugas Quality&amp;nbsp;&lt;div&gt;Assurance&lt;/div&gt;" style="swimlane;startSize=50;horizontal=0;html=1;" parent="QjRwcwMKcNwtVwvAtG78-1" vertex="1">
+          <mxGeometry x="40" y="360" width="1260" height="130" as="geometry">
+            <mxRectangle x="20" y="240" width="460" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-52" value="SOP Quality Assurance di PPDDP" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#000000;fontColor=#000000;rounded=1;arcSize=0;" parent="QjRwcwMKcNwtVwvAtG78-4" vertex="1">
+          <mxGeometry x="1080" y="32.5" width="111" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-7" value="Petugas Perekam SPT" style="swimlane;startSize=50;horizontal=0;html=1;" parent="QjRwcwMKcNwtVwvAtG78-1" vertex="1">
+          <mxGeometry x="40" y="490" width="1260" height="240" as="geometry">
+            <mxRectangle x="20" y="240" width="460" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="QjRwcwMKcNwtVwvAtG78-7" source="QjRwcwMKcNwtVwvAtG78-20" target="QjRwcwMKcNwtVwvAtG78-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-20" value="Mengambil image SPT yang akan direkam" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#000000;fontColor=#000000;rounded=1;arcSize=0;" parent="QjRwcwMKcNwtVwvAtG78-7" vertex="1">
+          <mxGeometry x="170" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-29" value="Poor Image?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#E6E6E6;strokeColor=#000000;" parent="QjRwcwMKcNwtVwvAtG78-7" vertex="1">
+          <mxGeometry x="353" y="137.5" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="QjRwcwMKcNwtVwvAtG78-7" source="QjRwcwMKcNwtVwvAtG78-40" target="QjRwcwMKcNwtVwvAtG78-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-40" value="Membuka aplikasi coretax, mencari Wajib Pajak dan membuka draft SPT" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#000000;fontColor=#000000;rounded=1;arcSize=0;" parent="QjRwcwMKcNwtVwvAtG78-7" vertex="1">
+          <mxGeometry x="510" y="135" width="123" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-30" value="Tidak" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=classicThin;endSize=8;strokeColor=#000000;rounded=0;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="QjRwcwMKcNwtVwvAtG78-7" source="QjRwcwMKcNwtVwvAtG78-29" target="QjRwcwMKcNwtVwvAtG78-40" edge="1">
+          <mxGeometry x="-1" y="16" relative="1" as="geometry">
+            <mxPoint x="472" y="170" as="targetPoint" />
+            <mxPoint x="-13" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="QjRwcwMKcNwtVwvAtG78-7" source="QjRwcwMKcNwtVwvAtG78-42" target="QjRwcwMKcNwtVwvAtG78-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-42" value="Merekam data sesuai image SPT" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#000000;fontColor=#000000;rounded=1;arcSize=0;" parent="QjRwcwMKcNwtVwvAtG78-7" vertex="1">
+          <mxGeometry x="705" y="140" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-44" value="Membuat dafnom SPT hasil perekaman" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#000000;fontColor=#000000;rounded=1;arcSize=0;" parent="QjRwcwMKcNwtVwvAtG78-7" vertex="1">
+          <mxGeometry x="695" y="40" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-6" value="Petugas QC Admin" style="swimlane;startSize=50;horizontal=0;html=1;" parent="QjRwcwMKcNwtVwvAtG78-1" vertex="1">
+          <mxGeometry x="40" y="730" width="1260" height="150" as="geometry">
+            <mxRectangle x="20" y="240" width="460" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-37" value="Mengambil image SPT yang akan direkam" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#000000;fontColor=#000000;rounded=1;arcSize=0;" parent="QjRwcwMKcNwtVwvAtG78-6" vertex="1">
+          <mxGeometry x="343" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="QjRwcwMKcNwtVwvAtG78-1" source="QjRwcwMKcNwtVwvAtG78-10" target="QjRwcwMKcNwtVwvAtG78-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-31" value="Ya" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=classicThin;endSize=8;strokeColor=#000000;rounded=0;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="QjRwcwMKcNwtVwvAtG78-1" source="QjRwcwMKcNwtVwvAtG78-29" target="QjRwcwMKcNwtVwvAtG78-37" edge="1">
+          <mxGeometry x="-1" y="-33" relative="1" as="geometry">
+            <mxPoint x="334" y="1110" as="targetPoint" />
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="QjRwcwMKcNwtVwvAtG78-1" source="QjRwcwMKcNwtVwvAtG78-44" target="QjRwcwMKcNwtVwvAtG78-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="QjRwcwMKcNwtVwvAtG78-1" source="QjRwcwMKcNwtVwvAtG78-48" target="QjRwcwMKcNwtVwvAtG78-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QjRwcwMKcNwtVwvAtG78-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="QjRwcwMKcNwtVwvAtG78-1" source="QjRwcwMKcNwtVwvAtG78-50" target="QjRwcwMKcNwtVwvAtG78-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
